@@ -11,7 +11,7 @@
 
 ## 📌 Featured Projects
 - [GamerMatch](https://github.com/tu-repo) – Tinder-style platform for finding gaming partners.
-- [ElAmigoAdams](https://github.com\elamigoadams) - 
+- [ElAmigoAdams](https://github.com/CCaliani/ElAmigoAdams.git) - 
 - [KeyTrainer]
 
 ## 📫 Contact
