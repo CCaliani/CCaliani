@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Carlos 👋
 
-<!--
-**CCaliani/CCaliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Full-Stack Developer** passionate about building real-world projects from scratch.  
+🎯 Currently developing **GamerMatch**, a web platform to connect gamers with similar interests.  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- **Frontend:** Vue.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** MySQL
+- **Other:** Clerk, Socket.IO, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [GamerMatch](https://github.com/tu-repo) – Tinder-style platform for finding gaming partners.
+- [ElAmigoAdams](https://github.com\elamigoadams) - 
+- [KeyTrainer]
+
+## 📫 Contact
+- [LinkedIn](www.linkedin.com/in/carlos-caliani-ferrandez)
+- [Email](ccalferran@gmail.com)
