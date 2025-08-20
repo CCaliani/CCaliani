@@ -17,7 +17,8 @@ Currently developing **[GamerMatch](https://github.com/CCaliani/GamerMatch--TFG-
 - Preparing to relocate to **Switzerland** for new professional opportunities.
 
 ## 📌 Featured Projects
-- 🎮[GamerMatch](https://github.com/CCaliani/GamerMatch--TFG--) – Tinder-style platform for finding gaming partners.
+- 🎮[GamerMatch](https://github.com/CCaliani/GamerMatch--TFG--) – Tinder-style platform for finding gaming partners. (final degree project)
+- - 🎁[ElAmigoAdams](https://github.com/CCaliani/ElAmigoAdams.git) - Website for organising Secret Santa (building).
 
 ## 📫 Connect with me
 - [LinkedIn](www.linkedin.com/in/carlos-caliani-ferrandez)
